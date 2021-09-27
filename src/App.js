@@ -1,9 +1,13 @@
 import './App.css';
+import Books from './component/Books/Books';
+import Header from './component/Header/Header';
 
 function App() {
+  
   return (
     <div>
-      <h1>Hello</h1>
+      <Header></Header>
+      <Books></Books>
     </div>
   );
 }

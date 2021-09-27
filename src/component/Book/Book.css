@@ -1,0 +1,28 @@
+.book img{
+    width:270px;
+    height:250px;
+    margin:15px auto;
+    border-radius: 60%;
+}
+.book{
+    background-color: #a17081;
+    opacity: 0.89;
+    color:rgb(248, 247, 247);
+    font-weight: 500;
+    box-shadow: 10px 10px 10px #6d4150;
+}
+.cart-button{
+        background-color:#1b1016;
+        padding: 8px 10px;
+        border-radius: 5px;
+        font-size: 18px;
+        font-weight: 500;
+        color:rgb(230, 221, 221);
+        border : 1px solid #0d1314;
+        cursor: pointer;
+        margin: 10px 50px;
+}
+.fab{
+    margin: 5px;
+    font-size: 25px;
+}

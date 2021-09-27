@@ -1,0 +1,13 @@
+.cart{
+    background-color: #723e4d;
+    opacity: 0.89;
+    padding: 12px 15px;
+    border-radius:5px;
+    box-shadow: 10px 10px 10px #945a69;
+}
+.click{
+    background-color: #aa7483;
+    margin: 8px 0px;
+    padding: 0px;
+    border-radius: 5px;
+}
